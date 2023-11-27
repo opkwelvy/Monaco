@@ -23,3 +23,14 @@ body {
 .select-section select {
   border-radius: 5px;
 }
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+.buttons button {
+  color: #4c4a66;
+  font-size: 21px;
+  border: 1px solid #dbdade;
+  border-radius: 4px;
+  background-color: transparent;
+}
